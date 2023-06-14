@@ -104,7 +104,9 @@ int main()
 }
 
 ## Output:
-![Uploading Screenshot 2023-06-14 104905.png…]()
+![Screenshot 2023-06-14 104905](https://github.com/praveenmax55/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/113497509/c39c7673-fe40-476d-9fcc-fbabdc7f60b1)
+
+
 
 
 ## Result:
